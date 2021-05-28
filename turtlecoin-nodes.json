@@ -1,6 +1,6 @@
 {
   "nodes": [
-     {
+    {
       "name": "A French TRTLnode",
       "url": "turtlecoin.revz.fr",
       "port": 11898,
@@ -157,6 +157,13 @@
     {
       "name": "TeamMatix TurtleNode - Germany",
       "url": "trtl.teammatix.eu",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "On The Moon TRTL Node - CENTRAL US",
+      "url": "trtl-1.trtl.cf",
       "port": 11898,
       "ssl": false,
       "cache": false
